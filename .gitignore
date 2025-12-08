@@ -6,3 +6,4 @@ fine_tuned_*
 *.csv
 data
 *.pdf
+*.pkl
